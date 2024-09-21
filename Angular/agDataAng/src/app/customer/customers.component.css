@@ -1,0 +1,17 @@
+
+.newcustbtn-row {
+  background-color: lightgreen;
+  padding: 5px;
+}
+
+.customerheader-row {
+  background-color: lightblue;
+}
+
+.customer-row {
+  background-color: #f9f9f9;
+}
+
+  .customer-row h4 {
+    margin-bottom: 15px;
+  }
