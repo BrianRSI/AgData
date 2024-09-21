@@ -1,0 +1,21 @@
+{
+  "Customers": [
+    {
+      "CustomerId": 1,
+      "FirstName": "test",
+      "LastName": "my casd",
+      "FullName": "test my casd"
+    }
+  ],
+  "Addresses": [
+    {
+      "AddressId": 1,
+      "Address1": "q23123",
+      "Address2": "asdadasd",
+      "City": "sadfasd",
+      "State": "asdad",
+      "Zip": "13131",
+      "CustomerId": 1
+    }
+  ]
+}
